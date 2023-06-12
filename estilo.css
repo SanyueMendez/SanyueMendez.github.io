@@ -1,0 +1,140 @@
+body {
+  background-color: #C7C8D8;
+}
+h1 {
+  text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+img {
+  text-align: center;
+}
+div.java {
+  width: 50%;
+  margin: 20px auto;
+  background-color: #9296DC ;
+  color: #fff;
+  padding: 15px;
+}
+
+div.java img.izquierda {
+  float: left;
+  margin-right: 20px;
+}
+div.reset {
+  clear: both;
+}
+div.phyton {
+  width: 50%;
+  margin: 20px auto;
+  background-color: #DCA892  ;
+  color: #fff;
+  padding: 15px;
+}
+
+div.phyton img.izquierda {
+  float: left;
+  margin-right: 20px;
+}
+div.reset {
+  clear: both;
+}
+div.php {
+  width: 50%;
+  margin: 20px auto;
+  background-color: #FFFFFF ;
+  color: black;
+  padding: 15px;
+}
+
+div.php img.izquierda {
+  float: left;
+  margin-right: 20px;
+}
+div.reset {
+  clear: both;
+}
+
+  border color: black;
+}
+div.reset {
+  clear: both;
+}
+div.tabla {
+  width: 50%;
+  margin: 20px auto;
+  background-color: #A047A9  ;
+  color: #fff;
+  padding: 15px;
+}
+
+div.tabla img.izquierda {
+  float: left;
+  margin-right: 20px;
+}
+div.reset {
+  clear: both;
+}
+div.cmas {
+  width: 50%;
+  margin: 20px auto;
+  background-color: #656A6C  ;
+  color: #fff;
+  padding: 15px;
+}
+
+div.cmas img.izquierda {
+  float: left;
+  margin-right: 20px;
+}
+div.reset {
+  clear: both;
+}
+div.javascript {
+  width: 50%;
+  margin: 20px auto;
+  background-color: #ECCC58  ;
+  color: #fff;
+  padding: 15px;
+}
+div.javascript img.izquierda {
+  float: left;
+  margin-right: 20px;
+}
+div.reset {
+  clear: both;
+}
+div.sql {
+  width: 50%;
+  margin: 20px auto;
+  background-color: #DD0000 ;
+  color: #fff;
+  padding: 15px;
+}
+
+div.sql img.izquierda {
+  float: left;
+  margin-right: 20px;
+}
+
